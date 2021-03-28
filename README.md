@@ -1,0 +1,2 @@
+# Ruby Basics Exercises
+These are my solutions to the exercises from [Ruby Basic lessons](https://www.theodinproject.com/courses/ruby-programming#basic-ruby) on [The Odin Project](https://www.theodinproject.com/).
